@@ -26,7 +26,5 @@
 
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
-
 <a href="https://www.linkedin.com/in/mega-arasan-a39760227/" target="_blank"><img align="center" src="https://img.icons8.com/external-justicon-lineal-color-justicon/2x/external-linkedin-social-media-justicon-lineal-color-justicon.png" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
-
 </p>
