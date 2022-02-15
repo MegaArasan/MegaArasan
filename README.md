@@ -23,3 +23,10 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MegaArasan&theme=highcontrast&show_icons=true&count_private=true )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MegaArasan&theme=highcontrast )
+
+<h2 align="left">Connect with me ❤️</h2>
+<p align="left">
+
+<a href="linkedin.com/in/mega-arasan-a39760227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
+
+</p>
