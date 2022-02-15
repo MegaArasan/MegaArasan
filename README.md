@@ -1,3 +1,6 @@
+<img src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif" alt="image />
+                                                                                                                      
+                                                                                                                      
 <h1 align="center">Hi 👋, I'm Mega Arasan</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
