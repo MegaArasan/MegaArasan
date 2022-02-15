@@ -15,9 +15,9 @@
 
 #<h3 align="left">😎Stats</h3>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MegaArasan&theme=highcontrast&show_icons=true&count_private=true" alt="megaarasan" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=megaarasan&theme=highcontrast" alt="megaarasan" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegaArasan&theme=highcontrast" alt="megaarasan" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MegaArasan&theme=highcontrast&show_icons=true&count_private=true" alt="megaarasan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=megaarasan&theme=highcontrast" alt="megaarasan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegaArasan&theme=highcontrast" alt="megaarasan" />
 </p>
 <h3 align="left">Connect with me ❤️</h3>
 <p align="left">
