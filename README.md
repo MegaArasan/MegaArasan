@@ -2,7 +2,7 @@
 
 ##I'm a Full Stack Developer
 - 🌱 I’m currently learning eveything
--🥅 2022 Goals:contribute more on projects 
+- 🥅 2022 Goals:contribute more on projects 
 - 📫 How to reach me: 📧 megaarasan2000@gmail.com
 - ⚡ Fun fact: I love to play Football and try to learn something new
 
