@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mega Arasan
 
-##I'm a Full Stack Developer
+#I'm a Full Stack Developer
 - 🌱 I’m currently learning eveything
 - 🥅 2022 Goals:contribute more on projects 
 - 📫 How to reach me: 📧 megaarasan2000@gmail.com
