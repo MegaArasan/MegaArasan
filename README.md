@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mega Arasan</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **Redux**
-
 - 📫 How to reach me **megaarasan2000@gmail.com**
 
-- 🥅 2022 Goals: contribute more full stack projects
+- 🥅 2024 Goals: contribute more full stack projects
 
 - ⚡ Fun fact **I love to play Football and try to learn something new**
 
