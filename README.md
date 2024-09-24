@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mega Arasan</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">Experienced Full-Stack Web Developer with a proven track record of designing and building scalable, high-performance web applications. Seeking a challenging role to leverage my technical skills and contribute to innovative projects.</h3>
 
 - 📫 How to reach me **megaarasan2000@gmail.com**
 
