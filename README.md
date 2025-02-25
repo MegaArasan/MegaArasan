@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mega Arasan</h1>
-<h3 align="center">Experienced Full-Stack Web Developer with a proven track record of designing and building scalable, high-performance web applications. Seeking a challenging role to leverage my technical skills and contribute to innovative projects.</h3>
+<h3 align="center">Experienced Full-Stack Web Developer with a strong background in building scalable web applications. Looking for a new opportunity to apply my skills and contribute to exciting projects.</h3>
 
 - 📫 How to reach me **megaarasan2000@gmail.com**
 
-- 🥅 2024 Goals: contribute more full stack projects
+- 🥅 2025 Goals: contribute more full stac projects
 
 - ⚡ Fun fact **I love to play Football and try to learn something new**
 
