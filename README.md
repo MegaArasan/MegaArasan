@@ -2,8 +2,8 @@
 <h3 align="center">Experienced Full-Stack Web Developer passionate about building scalable and efficient web applications. Looking for opportunities to contribute to exciting projects and expand my skill set.</h3>
 
 - 📫 How to reach me: "megaarasan2000@gmail.com"
-- 🥅 2025 Goals: Contribute to more full-stack projects
-- ⚡ Fun fact: I love playing football and learning new things
+- 🥅 2026 Goals: Contribute to more Backend projects
+- ⚡ Fun fact: Interested in gaming and coding
 
 ---
 
