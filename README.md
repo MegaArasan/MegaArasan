@@ -47,8 +47,6 @@ Over the past **4+ years**, I've contributed to enterprise applications across m
 - Agile Software Development
 - Cross-Team Collaboration
 
-> **Note:** Most of my professional work involves enterprise applications developed for clients. Due to confidentiality agreements and company policies, the source code cannot be shared publicly.
-
 ---
 
 # 🛠 Tech Stack
