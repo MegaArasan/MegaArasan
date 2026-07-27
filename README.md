@@ -12,43 +12,48 @@ Passionate about building scalable backend systems, designing RESTful APIs, and 
 
 # 👨‍💻 About Me
 
-I'm a Backend Software Engineer with **4+ years of professional experience** developing enterprise-grade web applications using **Node.js**, **Express.js**, **JavaScript**, and **TypeScript**.
+I'm a **Backend Software Engineer** with **4+ years of professional experience** in designing, developing, and maintaining enterprise-grade web applications using **Node.js**, **Express.js**, **JavaScript**, and **TypeScript**.
 
-I enjoy designing backend architectures, building scalable REST APIs, integrating third-party services, optimizing database performance, and solving production issues.
+I specialize in building scalable backend systems, designing RESTful APIs, implementing business logic, integrating third-party services, optimizing databases, and supporting production applications.
 
-Currently, I'm working as a **Senior Associate Software Engineer** at **Hutech Solutions**.
+Currently, I'm working as a **Senior Associate Software Engineer** at **Hutech Solutions**, deployed on contract for **Vymo**, contributing to enterprise FinTech solutions.
 
-Outside of work, I enjoy learning system design, building backend projects, exploring new technologies, and occasionally gaming.
+Outside of work, I'm passionate about backend engineering, system design, continuous learning, and building high-quality software.
 
 ---
 
-# 🚀 What I Do
+# 💼 Professional Experience
 
-✔ Build scalable REST APIs
+Over the past **4+ years**, I've contributed to enterprise applications across multiple business domains.
 
-✔ Design backend business logic
+### Domains
 
-✔ Develop enterprise web applications
+- 🏦 FinTech
+- 🚗 Insurance
+- 🌍 EdTech
+- 🏋️ HealthTech
 
-✔ Integrate third-party services
+### What I Work On
 
-✔ Optimize application performance
+- REST API Development
+- Backend Business Logic
+- Enterprise Web Applications
+- Third-Party API Integrations
+- Database Design & Optimization
+- Authentication & Authorization
+- Production Support
+- Performance Optimization
+- Logging & Monitoring
+- Agile Software Development
+- Cross-Team Collaboration
 
-✔ Production support & debugging
-
-✔ Database design and optimization
-
-✔ Authentication & Authorization
-
-✔ Microservice communication
-
-✔ Backend architecture
+> **Note:** Most of my professional work involves enterprise applications developed for clients. Due to confidentiality agreements and company policies, the source code cannot be shared publicly.
 
 ---
 
 # 🛠 Tech Stack
 
-## Backend
+## 💻 Backend
 
 - Node.js
 - Express.js
@@ -60,18 +65,18 @@ Outside of work, I enjoy learning system design, building backend projects, expl
 
 ---
 
-## Databases
+## 🗄 Databases
 
 - MongoDB
 - PostgreSQL
 - MySQL
 - Redis
-- ClickHouse
-- Elasticsearch
+- ClickHouse *(Working Knowledge)*
+- Elasticsearch *(Working Knowledge)*
 
 ---
 
-## Frontend
+## 🎨 Frontend
 
 - React.js
 - Redux
@@ -80,7 +85,7 @@ Outside of work, I enjoy learning system design, building backend projects, expl
 
 ---
 
-## Tools & Platforms
+## ☁ Cloud & Tools
 
 - Git
 - GitHub
@@ -91,152 +96,55 @@ Outside of work, I enjoy learning system design, building backend projects, expl
 
 ---
 
-## Software Engineering Practices
+## ⚙ Engineering Practices
 
 - REST API Design
 - API Integration
 - Production Support
 - Performance Optimization
 - Logging & Monitoring
-- Agile / Scrum
-- Version Control
 - Debugging & Troubleshooting
+- Version Control
+- Agile / Scrum
 
 ---
 
-# 📌 Featured Projects
+# 🌱 Currently Learning
 
-> These are some of my personal and professional learning projects.
+I'm continuously improving my backend engineering skills and exploring modern software architecture.
 
-## 🚧 Node.js Authentication API
-
-Coming Soon
-
-Tech Stack
-
-- Node.js
-- Express.js
-- PostgreSQL
-- JWT
-- Refresh Tokens
-- Role-Based Access Control
-
-Features
-
-- User Authentication
-- Secure Login
-- Protected APIs
-- Refresh Tokens
-- Password Encryption
-
----
-
-## 🚧 Task Management REST API
-
-Coming Soon
-
-Tech Stack
-
-- Node.js
-- PostgreSQL
-- Redis
-
-Features
-
-- Authentication
-- CRUD APIs
-- Pagination
-- Filtering
-- Search
-- Redis Cache
-
----
-
-## 🚧 URL Shortener
-
-Coming Soon
-
-Tech Stack
-
-- Node.js
-- Redis
-- PostgreSQL
-
-Features
-
-- URL Analytics
-- QR Code
-- Custom URLs
-- Rate Limiting
-
----
-
-## 🚧 Real-Time Chat Application
-
-Coming Soon
-
-Tech Stack
-
-- Node.js
-- Socket.IO
-- MongoDB
-
-Features
-
-- Real-time Messaging
-- Online Users
-- Typing Indicator
-- Notifications
-
----
-
-## 🚧 Travel Booking System
-
-Coming Soon
-
-Tech Stack
-
-- Java
-- Flask
-- MySQL
-
-Features
-
-- Booking Management
-- Hotel Search
-- User Authentication
-- Reservation APIs
-
----
-
-# 📚 Currently Learning
-
-I'm continuously improving my backend engineering skills.
-
-Currently focusing on:
+Current focus areas include:
 
 - Advanced Node.js
 - System Design
 - Distributed Systems
-- Microservices
+- Microservices Architecture
 - Docker
 - Kubernetes
 - AWS
 - CI/CD
 - Design Patterns
-- Performance Optimization
+- Backend Performance Optimization
 
 ---
 
 # 🎯 2026 Goals
 
-- Build production-ready backend projects
+- Build a strong backend engineering portfolio
+- Publish production-ready Node.js projects
+- Improve System Design knowledge
+- Learn Microservices Architecture
+- Strengthen DevOps fundamentals
 - Contribute to Open Source
-- Learn Advanced System Design
-- Improve DevOps knowledge
-- Master Microservices Architecture
-- Strengthen DSA & Problem Solving
-- Build high-quality portfolio repositories
+- Continue building scalable backend applications
+
+---
+
+# 🚀 GitHub Journey
+
+I'm currently refreshing my GitHub profile by publishing well-structured backend projects that demonstrate clean architecture, scalable API development, and modern engineering practices.
+
+My focus is on **quality over quantity**, ensuring each repository reflects production-oriented coding standards and best practices.
 
 ---
 
@@ -244,36 +152,40 @@ Currently focusing on:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MegaArasan&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MegaArasan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegaArasan&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegaArasan&layout=compact&theme=tokyonight" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MegaArasan&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MegaArasan&theme=tokyonight" alt="GitHub Streak" />
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🤝 Connect With Me
 
-📧 Email
+<p align="left">
 
-megaarasan2000@gmail.com
+<a href="https://linkedin.com/in/mega-arasan-a39760227" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+</a>
 
-💼 LinkedIn
+</p>
 
-https://linkedin.com/in/mega-arasan-a39760227
+📧 **Email:** megaarasan2000@gmail.com
 
-🐙 GitHub
+💼 **LinkedIn:** https://linkedin.com/in/mega-arasan-a39760227
 
-https://github.com/MegaArasan
-
----
-
-# 💬 Quote
-
-> "Great software isn't just about writing code—it's about solving problems, building reliable systems, and continuously learning."
+🐙 **GitHub:** https://github.com/MegaArasan
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+# 💡 Philosophy
+
+> *"Good software is not just about writing code—it's about solving problems, building reliable systems, and continuously improving as an engineer."*
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+I'm always interested in learning new technologies, collaborating with other developers, and building scalable backend applications.
