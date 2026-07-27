@@ -1,47 +1,279 @@
 <h1 align="center">Hi 👋, I'm Mega Arasan</h1>
-<h3 align="center">Experienced Full-Stack Web Developer passionate about building scalable and efficient web applications. Looking for opportunities to contribute to exciting projects and expand my skill set.</h3>
 
-- 📫 How to reach me: "megaarasan2000@gmail.com"
-- 🥅 2026 Goals: Contribute to more Backend projects
-- ⚡ Fun fact: Interested in gaming and coding
+<h3 align="center">
+Backend Software Engineer | Node.js | Express.js | REST APIs | MongoDB | PostgreSQL
+</h3>
 
----
-
-<h3 align="left">Languages & Tools</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/></a>
+<p align="center">
+Passionate about building scalable backend systems, designing RESTful APIs, and solving real-world engineering problems.
 </p>
 
 ---
 
-<h3 align="left">Contribution Graph 🐍</h3>
-<img alt="contribution" src="https://github.com/MegaArasan/MegaArasan/blob/output/github-contribution-grid-snake.svg" />
+# 👨‍💻 About Me
+
+I'm a Backend Software Engineer with **4+ years of professional experience** developing enterprise-grade web applications using **Node.js**, **Express.js**, **JavaScript**, and **TypeScript**.
+
+I enjoy designing backend architectures, building scalable REST APIs, integrating third-party services, optimizing database performance, and solving production issues.
+
+Currently, I'm working as a **Senior Associate Software Engineer** at **Hutech Solutions**.
+
+Outside of work, I enjoy learning system design, building backend projects, exploring new technologies, and occasionally gaming.
 
 ---
 
-<h3 align="left">😎 Stats</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MegaArasan&theme=highcontrast&show_icons=true&count_private=true" alt="MegaArasan" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegaArasan&theme=highcontrast&layout=compact" alt="Top Languages" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MegaArasan&theme=highcontrast" alt="GitHub Streak" />
+# 🚀 What I Do
+
+✔ Build scalable REST APIs
+
+✔ Design backend business logic
+
+✔ Develop enterprise web applications
+
+✔ Integrate third-party services
+
+✔ Optimize application performance
+
+✔ Production support & debugging
+
+✔ Database design and optimization
+
+✔ Authentication & Authorization
+
+✔ Microservice communication
+
+✔ Backend architecture
+
+---
+
+# 🛠 Tech Stack
+
+## Backend
+
+- Node.js
+- Express.js
+- JavaScript (ES6+)
+- TypeScript
+- REST APIs
+- JWT Authentication
+- WebSockets
+
+---
+
+## Databases
+
+- MongoDB
+- PostgreSQL
+- MySQL
+- Redis
+- ClickHouse
+- Elasticsearch
+
+---
+
+## Frontend
+
+- React.js
+- Redux
+- HTML5
+- CSS3
+
+---
+
+## Tools & Platforms
+
+- Git
+- GitHub
+- Docker
+- Postman
+- AWS (EC2, S3)
+- JIRA
+
+---
+
+## Software Engineering Practices
+
+- REST API Design
+- API Integration
+- Production Support
+- Performance Optimization
+- Logging & Monitoring
+- Agile / Scrum
+- Version Control
+- Debugging & Troubleshooting
+
+---
+
+# 📌 Featured Projects
+
+> These are some of my personal and professional learning projects.
+
+## 🚧 Node.js Authentication API
+
+Coming Soon
+
+Tech Stack
+
+- Node.js
+- Express.js
+- PostgreSQL
+- JWT
+- Refresh Tokens
+- Role-Based Access Control
+
+Features
+
+- User Authentication
+- Secure Login
+- Protected APIs
+- Refresh Tokens
+- Password Encryption
+
+---
+
+## 🚧 Task Management REST API
+
+Coming Soon
+
+Tech Stack
+
+- Node.js
+- PostgreSQL
+- Redis
+
+Features
+
+- Authentication
+- CRUD APIs
+- Pagination
+- Filtering
+- Search
+- Redis Cache
+
+---
+
+## 🚧 URL Shortener
+
+Coming Soon
+
+Tech Stack
+
+- Node.js
+- Redis
+- PostgreSQL
+
+Features
+
+- URL Analytics
+- QR Code
+- Custom URLs
+- Rate Limiting
+
+---
+
+## 🚧 Real-Time Chat Application
+
+Coming Soon
+
+Tech Stack
+
+- Node.js
+- Socket.IO
+- MongoDB
+
+Features
+
+- Real-time Messaging
+- Online Users
+- Typing Indicator
+- Notifications
+
+---
+
+## 🚧 Travel Booking System
+
+Coming Soon
+
+Tech Stack
+
+- Java
+- Flask
+- MySQL
+
+Features
+
+- Booking Management
+- Hotel Search
+- User Authentication
+- Reservation APIs
+
+---
+
+# 📚 Currently Learning
+
+I'm continuously improving my backend engineering skills.
+
+Currently focusing on:
+
+- Advanced Node.js
+- System Design
+- Distributed Systems
+- Microservices
+- Docker
+- Kubernetes
+- AWS
+- CI/CD
+- Design Patterns
+- Performance Optimization
+
+---
+
+# 🎯 2026 Goals
+
+- Build production-ready backend projects
+- Contribute to Open Source
+- Learn Advanced System Design
+- Improve DevOps knowledge
+- Master Microservices Architecture
+- Strengthen DSA & Problem Solving
+- Build high-quality portfolio repositories
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MegaArasan&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegaArasan&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MegaArasan&theme=tokyonight"/>
+
 </p>
 
 ---
 
-<h3 align="left">Connect with me ❤️</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/mega-arasan-a39760227" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-</p>
+# 🌐 Connect With Me
+
+📧 Email
+
+megaarasan2000@gmail.com
+
+💼 LinkedIn
+
+https://linkedin.com/in/mega-arasan-a39760227
+
+🐙 GitHub
+
+https://github.com/MegaArasan
+
+---
+
+# 💬 Quote
+
+> "Great software isn't just about writing code—it's about solving problems, building reliable systems, and continuously learning."
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
